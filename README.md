@@ -1,8 +1,8 @@
 ### Hi there, I'm Gillya Sanjaya Putra 👋
-
+### I am a student at Sriwijaya State Polytechnic
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/gillsanjaya9/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=gillsanjaya9&show_icons=true&include_all_commits=true&theme=monokai" 
+  <img src="https://github-readme-stats.vercel.app/api?username=gillsanjaya9&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gillsanjaya9&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillsanjaya9&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
