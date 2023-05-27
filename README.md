@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gillya Sanjaya Putra</h1>
 <h3 align="center">A student at Sriwijaya State Polytechnic</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/UEJR.gif">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/gillsanjaya9/gillsanjaya9/assets/125944717/2b5eb00c-0268-49c6-a3df-154270579d7a)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gillsanjaya9&label=Profile%20views&color=0e75b6&style=flat" alt="gillsanjaya9" /> </p>
 
